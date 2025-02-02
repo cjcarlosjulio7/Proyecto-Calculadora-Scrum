@@ -34,3 +34,12 @@ document.addEventListener('keydown', (event) => {
         clearDisplay();
     }
 });
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = {
+        appendToDisplay,
+        clearDisplay,
+        calculate,
+        display,
+    };
+}
