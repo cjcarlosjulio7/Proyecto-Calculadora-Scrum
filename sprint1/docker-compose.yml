@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  calculadora:
+    build: .  
+    ports:
+      - "8080:80"
+    container_name: calculadora
+    restart: unless-stopped
