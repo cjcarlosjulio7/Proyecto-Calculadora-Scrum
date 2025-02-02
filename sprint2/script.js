@@ -93,3 +93,12 @@ window.onload = () => {
         document.getElementById("dark-mode-icon").textContent = "☀️";
     }
 };
+
+module.exports = {
+    appendToDisplay,
+    clearDisplay,
+    deleteLast,
+    calculate,
+    isOperator,
+    display
+};
