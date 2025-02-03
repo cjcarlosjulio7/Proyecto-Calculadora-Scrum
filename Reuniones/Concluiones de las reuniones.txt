@@ -1,0 +1,18 @@
+Sprint 1
+	Daily #1 Conclusiones: Nadie presento problemas.
+	Daily #2 Conclusiones: Nadie presento problemas.
+
+	Sprint review: El product owner acepto el producto que cumplía con todas las características para general valor al cliente.
+	Sprint retrospective: Se felicito al equipo, se mencionó que fue lo que se hizo bien, se mostró el burndown chart.
+
+
+
+
+
+Sprint 2
+	Daily #1 Conclusiones: Nadie presento problemas.
+	Daily #2 Conclusiones: Nadie presento problemas.
+
+	Sprint review: El product owner acepto y dio por terminado el desarrollo del producto.
+	Sprint retrospective: Se felicito al equipo, se mencionó mejoras de capacitaciones para el próximo proyecto, 
+	se rescató la comunicación del equipo y por ultimo  se mostró el burndown chart. 
