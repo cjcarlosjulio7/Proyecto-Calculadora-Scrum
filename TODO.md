@@ -1,6 +1,6 @@
 # Calculator Project
 
-A project focused on creating a fully functional calculator using HTML, CSS, and JavaScript.
+Un oryecto enfocado en crear un calculadora completamente funcional utilizando HTML, CSS y JavaScript.
 
 <em>[TODO.md spec & Kanban Board](https://bit.ly/3fCwKfM)</em>
 
