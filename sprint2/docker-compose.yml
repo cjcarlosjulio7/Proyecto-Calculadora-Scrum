@@ -3,6 +3,6 @@ services:
   calculadora:
     build: .  
     ports:
-      - "8080:80"
-    container_name: calculadora
+      - "8081:80"
+    container_name: calculadoraFinal
     restart: unless-stopped
